@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lucaseras/lucaseras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-
-<h1 align="center">Hi, I'm Lucas Eras</h1>
-<h3 align="center">A lover of both computer science and anthropology</h3>
+### Hi there 👋
 
 - 🔭 I’m currently working on [eras.page](eras.page)
 - 😄 Pronouns: he/him
