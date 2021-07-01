@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-- 🔭 I’m currently working on [eras.page](eras.page)
+- 🔭 I’m currently working on [eras.page](www.eras.page)
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning: React.js
 - 📫 How to reach me: **lucaseraspaiva@gmail.com**
